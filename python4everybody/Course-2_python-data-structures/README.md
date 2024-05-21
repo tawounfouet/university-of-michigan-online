@@ -15,3 +15,5 @@ Current repo contains slides with course materials and my solution to the assign
  - assignment\_9_4.py
  - assignment\_10_2.py
 - romeo.txt is used for the assignemnt\8_4.py
+
+![Certificate](certificate.png)
