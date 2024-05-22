@@ -57,3 +57,5 @@ For this assignment work through Part 4 of the Django tutorial at https://docs.d
 To receive a grade for this assignment, include this string 6742bca8 on the pages of your application.
 
 
+![Certificate](course-2_building-apps-django_certificate.png)
+
