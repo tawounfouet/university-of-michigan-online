@@ -59,3 +59,5 @@ To receive a grade for this assignment, include this string 6742bca8 on the page
 
 ![Certificate](course-2_building-apps-django_certificate.png)
 
+https://www.coursera.org/account/accomplishments/verify/MUX7NSBLEJZ3 
+
