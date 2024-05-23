@@ -44,6 +44,8 @@
 
 ### 7. What is the purpose of the *next* parameter on a login or logout URL?
 
+
+
 - [ ] It indicates which record to start with in a list that exceeds the length of the page
 - [ ] It advances the iteration variable in a for loop
 - [x] It tells the authentication system where to go after the action is complete
